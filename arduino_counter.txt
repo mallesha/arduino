@@ -1,3 +1,9 @@
+############
+Write an Arduino program that counts down from 30, printing each integer along the way. Once the program reaches 0, it should print 0 and then stop counting.
+
+Hint: What kind of loop is useful for performing an action a specific number of times? If you open the Serial Monitor, you should see the following:
+############
+
 int my_led = 13;
 int counter;
 
